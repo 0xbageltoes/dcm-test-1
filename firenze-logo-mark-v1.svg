@@ -1,0 +1,28 @@
+<svg width="462" height="496" viewBox="0 0 462 496" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path opacity="0.9" d="M208.558 493.387C194.005 482.547 177.539 461.809 173.849 446.316C192.223 428.629 203.867 405.32 207.526 391.34C217.476 353.321 213.65 314.463 203.699 278.361C198.486 252.29 175.203 215.016 158.924 183.457C139.176 145.173 137.139 101.125 174.727 61.3611L207.526 26.6737L230.818 2.18066L254.11 26.8486L286.908 61.5359C324.496 101.3 322.458 145.348 302.71 183.631C286.431 215.191 263.148 252.465 257.935 278.536C247.984 314.637 244.159 353.496 254.109 391.515C257.767 405.495 269.412 428.804 287.786 446.491C284.096 461.984 267.629 482.722 253.076 493.562C253.076 493.562 240.007 489.447 231.085 489.415C222.178 489.384 208.558 493.387 208.558 493.387Z" fill="url(#pattern0_707_2543)" stroke="#2B2117" stroke-width="3"/>
+<path opacity="0.9" d="M355.489 460.379C281.606 455.599 219.227 371.406 288.03 233.336C355.489 104.668 535.885 207.613 424.594 319.711C424.594 319.711 409.963 266.548 355.489 266.548C271.272 269.61 251.018 435.699 371.12 414.312L355.489 460.379Z" fill="url(#pattern1_707_2543)" stroke="#2B2117" stroke-width="3"/>
+<path opacity="0.9" d="M106.036 460.379C179.92 455.599 242.298 371.406 173.496 233.336C106.036 104.668 -74.3595 207.613 36.9312 319.711C36.9312 319.711 51.5625 266.548 106.036 266.548C190.253 269.61 210.508 435.699 90.4054 414.312L106.036 460.379Z" fill="url(#pattern2_707_2543)" stroke="#2B2117" stroke-width="3"/>
+<defs>
+<pattern id="pattern0_707_2543" patternUnits="userSpaceOnUse" patternTransform="matrix(8.2 0 0 8.2 137.139 0.200781)" preserveAspectRatio="none" viewBox="0 -9.89941 41 41" width="1" height="1">
+<use xlink:href="#pattern0_707_2543_inner" transform="translate(-41 -41)"/>
+<use xlink:href="#pattern0_707_2543_inner" transform="translate(0 -41)"/>
+<use xlink:href="#pattern0_707_2543_inner" transform="translate(-41 0)"/>
+<g id="pattern0_707_2543_inner">
+<line x1="4.94975" y1="-4.94975" x2="45.9497" y2="36.0503" stroke="#2B2117" stroke-width="14"/>
+</g>
+</pattern><pattern id="pattern1_707_2543" patternUnits="userSpaceOnUse" patternTransform="matrix(8.2 0 0 8.2 219.227 102.688)" preserveAspectRatio="none" viewBox="0 -9.89941 41 41" width="1" height="1">
+<use xlink:href="#pattern1_707_2543_inner" transform="translate(-41 -41)"/>
+<use xlink:href="#pattern1_707_2543_inner" transform="translate(0 -41)"/>
+<use xlink:href="#pattern1_707_2543_inner" transform="translate(-41 0)"/>
+<g id="pattern1_707_2543_inner">
+<line x1="4.94975" y1="-4.94975" x2="45.9497" y2="36.0503" stroke="#2B2117" stroke-width="14"/>
+</g>
+</pattern><pattern id="pattern2_707_2543" patternUnits="userSpaceOnUse" patternTransform="matrix(-8.2 0 0 8.2 242.298 102.688)" preserveAspectRatio="none" viewBox="0 -9.89941 41 41" width="1" height="1">
+<use xlink:href="#pattern2_707_2543_inner" transform="translate(-41 -41)"/>
+<use xlink:href="#pattern2_707_2543_inner" transform="translate(0 -41)"/>
+<use xlink:href="#pattern2_707_2543_inner" transform="translate(-41 0)"/>
+<g id="pattern2_707_2543_inner">
+<line x1="4.94975" y1="-4.94975" x2="45.9497" y2="36.0503" stroke="#2B2117" stroke-width="14"/>
+</g>
+</pattern></defs>
+</svg>
